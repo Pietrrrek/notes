@@ -1,0 +1,1 @@
+Since projects are temporary undertakings, they must have definite beginning and end. Some projects have to be started at a specific date, while others require completion by a certain date - in such cases it is necessary to determine when the project should start. A project is finished once the promised work is finished (e.g. all features have been implemented). 

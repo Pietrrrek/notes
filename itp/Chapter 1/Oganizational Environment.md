@@ -1,0 +1,3 @@
+Projects operate in environments larger than just the project itself. Organizations select projects for a number of reasons, and the chosen project(s) can impact the organization.
+
+The [[Project manager]] and the team must understand the organizations's culture, environment, politics and structure, these (organizational) variables influence the selection, funding, and support of a project. These variables must be understood by the team in order to recognize and appropriately handle potential issues (arising from these variable) which could impede the project.

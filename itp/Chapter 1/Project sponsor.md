@@ -1,0 +1,1 @@
+The project sponsor may be the client, customer, or high-level executive who plays the role of champion for the project by providing resources, making project-related decisions, giving direction, and publicly supporting the project when needed.

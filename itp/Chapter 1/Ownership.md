@@ -1,0 +1,1 @@
+ A project can have many *stakeholders*, i.e. people whom invest in the project and expect a certain, positive, outcome of the project. The ownership of a project is transferred from the project team to the customer/client/user-group at the end of the project (goes for most projects).

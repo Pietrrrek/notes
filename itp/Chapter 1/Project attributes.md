@@ -1,0 +1,9 @@
+- **[[Time frame]]**
+- **[[Purpose]]**
+- **[[Ownership]]**
+- **[[Resources]]**
+- **[[Project roles]]**
+- **[[Risks and Assumptions]]**
+- **[[Interdependent Tasks]]**
+- **[[Organizational Change]]**
+- **[[Oganizational Environment]]**

@@ -1,0 +1,1 @@
+A user or person who has specific knowledge, expertise, or insight in a specific functional area needed to support the project. If a team is developing a specific application within some field, having an expert from such filed is more efficient and effective than having the project group study the field themselves.

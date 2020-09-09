@@ -1,0 +1,1 @@
+The project manager holds the responsibility of ensuring that all project management processes and other processes associated with the development/creation of the product, service, or system are in place and are carried out efficiently and effectively.

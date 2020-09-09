@@ -1,0 +1,4 @@
+- Risks
+    - Internal risks may arise from the way the project work is estimated to cost or the time to be completed. Key project group members leaving in the middle of the project is also a risk when undertaking a project. 
+    - External risks arise from things such as dependencies from external contractors, project teams or suppliers.
+- Assumptions are a different type of risk within a project. They are introduced to the project though forecasts and predictions such as the expected salaries of the project group members

@@ -1,0 +1,1 @@
+Means for achieving the project's goal e.g. time, money, people, facilities and technology.
